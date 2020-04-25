@@ -1,14 +1,22 @@
 {
-  "name": "mailing",
+  "name": "JS-mailing-node",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustFS/JS-mailing-node.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustFS/JS-mailing-node/issues"
+  },
+  "homepage": "https://github.com/JustFS/JS-mailing-node#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "nodemailer": "^6.4.6"
