@@ -19,6 +19,6 @@
   "homepage": "https://github.com/JustFS/JS-mailing-node#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "nodemailer": "^6.4.6"
+    "nodemailer": "^6.4.16"
   }
 }
